@@ -1,3 +1,7 @@
 img{
     width: 200px;
+    border: 2px solid rgb(5, 5, 151);
+    box-shadow: 8px 8px 8px;
+    margin: 5px;
+    padding: 5px;
 }
